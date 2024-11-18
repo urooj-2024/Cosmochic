@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652920490321",
+    "project_id": "cosmochic-2609a",
+    "storage_bucket": "cosmochic-2609a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652920490321:android:9f10b2a8e8922e635c2b70",
+        "android_client_info": {
+          "package_name": "com.example.cosmochic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATAGySHHi8vwkaubS40A69zWTPdA1u2z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
